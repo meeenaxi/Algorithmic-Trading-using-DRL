@@ -1,4 +1,5 @@
-Algorithmic Trading using Deep Reinforcement Learning
+
+#  Algorithmic Trading using Deep Reinforcement Learning
 This repository presents a complete implementation of an algorithmic trading framework powered by Deep Reinforcement Learning (DRL). The objective is to develop an intelligent trading agent capable of learning optimal trading strategies (Buy/Sell/Hold) from historical market data.
 
 Table of Contents
